@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_professions"
+        android:icon="@drawable/ic_baseline_self_improvement_24"
+        android:title="@string/professions" />
+    <item
+        android:id="@+id/action_register"
+        android:icon="@drawable/ic_baseline_person_24"
+        android:title="@string/admin" />
+</menu>
